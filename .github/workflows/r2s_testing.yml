@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master
-    paths:
-      - '.github/workflows/r2s_lean_minimal.yml'
+    # paths:
+      # - '.github/workflows/r2s_lean_minimal.yml'
       
 jobs:
   build:
